@@ -1,0 +1,10 @@
+
+---
+
+### 📄 [`requirements.txt`](#)
+
+```txt
+scapy
+nmap
+requests
+ipaddress

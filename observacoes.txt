@@ -1,0 +1,4 @@
+- Execute como administrador para melhores resultados.
+- O ARP pode ser bloqueado por firewall.
+- Ferramenta educativa para redes autorizadas.
+
